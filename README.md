@@ -42,7 +42,7 @@ Glaucoma, a neuro-degenerative eye disease, poses a significant threat to vision
 - Compute evaluation metrics (accuracy, precision, recall, IoU) for segmentation.
 
 **Readme File:**
-- For detailed project report, refer to [project_report](link_to_project_report).
+- For detailed project report, refer to [project_report](Project_Report.pdf).
 
 **Conclusion:**
 This project demonstrates the potential of using U-Net and machine learning algorithms for glaucoma detection in retinal fundus images. By automating the diagnosis process, it can contribute significantly to early detection and prevention of vision loss due to glaucoma.
